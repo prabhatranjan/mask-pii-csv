@@ -1,7 +1,5 @@
 # Mask PII in CSV
 
-# Update CSV File
-
 This project contains a Python function that reads a CSV file, replaces some data based on a regex pattern, and saves the updated CSV file. It also includes shell and batch scripts that install Python and the necessary libraries and then call the Python function.
 
 ## Usage
@@ -18,7 +16,7 @@ To use this project, follow these steps:
 
 ## Requirements
 
-To use this project, you will need:
+The packages installed by the script are:
 
 * Python 3
 * pip (Python package installer)
@@ -26,7 +24,7 @@ To use this project, you will need:
 
 ## Installation
 
-To install Python 3 and pip, follow these steps:
+You can also install the packages separately and run the python file directly. To install Python 3 and pip, follow these steps:
 
 1. Linux-based systems: Python 3 and pip should already be installed. If they are not, you can install them using your package manager (`apt-get`, `yum`, etc.).
 2. macOS: Python 3 should already be installed. If it is not, you can download and install it from the official website: https://www.python.org/downloads/mac-osx/.
